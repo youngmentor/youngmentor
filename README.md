@@ -9,8 +9,3 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=youngmentor&theme=redical)
 
-
-
-<br>
-<p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=youngmentor" alt="suliton"/> </p>  </p>
-<br>
